@@ -10,6 +10,7 @@ namespace Loans.Test
    {
 
       [Test]
+    
       public void ReturnTermInMonths()
       {
          var sut = new LoanTerm(1);
