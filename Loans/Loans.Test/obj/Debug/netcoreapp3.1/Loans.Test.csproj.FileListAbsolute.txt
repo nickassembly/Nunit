@@ -187,10 +187,12 @@ D:\Dev\DotNet\NUnit\Loans\Loans.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.V
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\bin\Debug\netcoreapp3.1\Loans.dll
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\bin\Debug\netcoreapp3.1\Loans.pdb
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.csprojAssemblyReference.cache
-D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.csproj.CoreCompileInputs.cache
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.AssemblyInfoInputs.cache
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.AssemblyInfo.cs
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.csproj.CopyComplete
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.dll
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.pdb
 D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.genruntimeconfig.cache
+D:\Dev\DotNet\NUnit\Loans\Loans.Test\obj\Debug\netcoreapp3.1\Loans.Test.csproj.CoreCompileInputs.cache
+D:\Dev\DotNet\NUnit\Loans\Loans.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Dev\DotNet\NUnit\Loans\Loans.Test\bin\Debug\netcoreapp3.1\Moq.dll
