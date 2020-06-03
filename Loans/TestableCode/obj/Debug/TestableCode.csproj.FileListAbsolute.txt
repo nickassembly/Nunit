@@ -1,0 +1,11 @@
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\TestableCode.exe.config
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\TestableCode.exe
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\TestableCode.pdb
+D:\Dev\DotNet\NUnit\Loans\TestableCode\obj\Debug\TestableCode.csprojAssemblyReference.cache
+D:\Dev\DotNet\NUnit\Loans\TestableCode\obj\Debug\TestableCode.csproj.CoreCompileInputs.cache
+D:\Dev\DotNet\NUnit\Loans\TestableCode\obj\Debug\TestableCode.exe
+D:\Dev\DotNet\NUnit\Loans\TestableCode\obj\Debug\TestableCode.pdb
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\nunit.framework.dll
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\nunit.framework.pdb
+D:\Dev\DotNet\NUnit\Loans\TestableCode\bin\Debug\nunit.framework.xml
+D:\Dev\DotNet\NUnit\Loans\TestableCode\obj\Debug\TestableCode.csproj.CopyComplete
